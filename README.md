@@ -1,12 +1,12 @@
 # MailMind
-MailMind/
-│── data/
-│     └── emails.csv
-│
-│── model/
-│     ├── tfidf_vectorizer.pkl
-│     └── logistic_model.pkl
-│
-│── train.py
-│── app.py
-│── requirements.txt
+- MailMind/
+- │── data/
+- │     └── emails.csv
+- │
+- │── model/
+- │     ├── tfidf_vectorizer.pkl
+- │     └── logistic_model.pkl
+- │
+- │── train.py
+- │── app.py
+- │── requirements.txt
